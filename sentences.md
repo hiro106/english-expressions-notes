@@ -1,1 +1,1 @@
-- xxx
+- We call .format() on a "format string", **where** the Python values we want to insert are represented with {} placeholders.
