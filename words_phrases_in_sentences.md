@@ -1,4 +1,4 @@
-## Words and phrases in sentences which I think are helpful
+## Words and phrases which I didn't know or had forgotten, then want to remember (with contexts)
 - str.join() **takes us in the other direction**, **sewing** a list of strings **up into** one long string, using the string it was called on as a separator.  
  - If we want to **throw in** any non-string objects, we have to be careful to call str() on them first.
  - We call .format() on a "format string", **where** the Python values we want to insert are represented with {} placeholders.
@@ -11,6 +11,7 @@
  - Dictionarie**s** are **a** built-in Python data **structure** for **mapping keys to values**.
  - In this case 'one', 'two', and 'three' are the keys, and 1, 2 and 3 are **their corresponding** values.
  - Values **are accessed via** square bracket syntax similar to **indexing into lists and strings**.
+ - Return a **right-justified** string of length width.
 
  
 
