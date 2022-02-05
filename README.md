@@ -3,4 +3,4 @@ Notes of English expressions which I think are informative.  勉強になると�
 
 - [Words](https://github.com/hiro106/English_Expressions_Notes/blob/main/words.md)
 - [Phrases](https://github.com/hiro106/English_Expressions_Notes/blob/main/phrases.md)
-- [Sentences]()https://github.com/hiro106/English_Expressions_Notes/blob/main/sentences.md
+- [Sentences](https://github.com/hiro106/English_Expressions_Notes/blob/main/sentences.md)
