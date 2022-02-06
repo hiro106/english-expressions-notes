@@ -1,4 +1,4 @@
-## Words and phrases with contexts
+## Words, phrases, and syntax with contexts
 ### - which I didn't know, had forgotten, or had known but don't have a good command of.
 - str.join() **takes us in the other direction**, **sewing** a list of strings **up into** one long string, using the string it was called on as a separator.  
  - If we want to **throw in** any non-string objects, we have to be careful to call str() on them first.
@@ -17,6 +17,7 @@
  - Let's start with a string **lightning round** to warm up. 
  - **What are the lengths of** the strings below?
  - For each of the five strings below, predict what len() would return **when passed** that string. 
+ - Note that the empty string is also the only string that Python **considers as** False **when converting** to boolean.
 
  
 
