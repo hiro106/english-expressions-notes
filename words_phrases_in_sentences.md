@@ -1,4 +1,4 @@
-## Words and phrases which I didn't know or might have forgotten, then want to remember (with contexts)
+## Words and phrases which I didn't know, might have forgotten, or had known but don't have a good command of (with contexts)
 - str.join() **takes us in the other direction**, **sewing** a list of strings **up into** one long string, using the string it was called on as a separator.  
  - If we want to **throw in** any non-string objects, we have to be careful to call str() on them first.
  - We call .format() on a "format string", **where** the Python values we want to insert are represented with {} placeholders.
@@ -13,6 +13,9 @@
  - Values **are accessed via** square bracket syntax similar to **indexing into lists and strings**.
  - Return a **right-justified** string of length width.
  - You are almost **done with** the course. Nice job!
+ - Let's start with a string **lightning round** to warm up. 
+ - **What are the lengths of** the strings below?
+ - For each of the five strings below, predict what len() would return **when passed** that string. 
 
  
 
