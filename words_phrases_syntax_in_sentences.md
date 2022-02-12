@@ -21,7 +21,6 @@
  - Make a transformed list where we 'normalize' each word to **facilitate** matching.
  - Periods and commas are removed from the end of each word, and it's **set to** all lowercase.
  - **Is there a match?** **If so,** update the list of matching indices.
-
- 
+ - Now the researcher wants to supply multiple **keywords to search for**. 
 
  
