@@ -23,5 +23,6 @@
  - **Is there a match?** **If so,** update the list of matching indices.
  - Now the researcher wants to supply multiple **keywords to search for**. 
  - Reusing code **in this way** makes your programs more robust and readable - and it saves typing!
+ - Returns a dictionary **where** each key is a keyword, and the value is a list of indices (from doc_list) of the documents containing that keyword
 
  
