@@ -24,6 +24,6 @@
  - Now the researcher wants to supply multiple **keywords to search for**. 
  - Reusing code **in this way** makes your programs more robust and readable - and it saves typing!
  - Returns a dictionary **where** each key is a keyword, and the value is a list of indices (from doc_list) of the documents containing that keyword
- - Based only on this information, if you receive a random letter, **the best guess is a 40% chance of it being** spam.
+ - **Based only on this information**, if you receive a random letter, **the best guess is a 40% chance of it being** spam.
 
  
