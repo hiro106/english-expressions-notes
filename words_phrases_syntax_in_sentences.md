@@ -48,6 +48,10 @@
  - My boss **assigned me to give** a presentation seminar in New York. 
  - Formatters in Python **allow you to use** curly braces as placeholders for values that you’ll **pass through with** the str.format() method.
  - You can use multiple pairs of curly braces **when using** formatters.
+ - Then, we **passed** two strings **into** the str.format() method, **separating them by a comma**.
+ - When we **leave** curly braces **empty** without any parameters, Python will **replace** the values passed through the str.format() method in order. 
  - 
+
+
 
  
