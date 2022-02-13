@@ -34,5 +34,8 @@
  - Some of these libraries are in the "standard library"**, meaning** you can find them **anywhere you run** Python. 
  - Other libraries can be easily added, **even if** they **aren't always shipped with** Python.
  - **Either way,** we'll **access** this code **with** imports.
+ - We can access these variables **using** dot syntax. 
+ - Some of them **refer to** simple values, like math.pi
+ - 
 
  
