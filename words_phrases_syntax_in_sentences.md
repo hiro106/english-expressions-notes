@@ -38,6 +38,7 @@
  - Some of them **refer to** simple values, like math.pi
  - Of course, if we don't know **what** math.log **does**, we can **call** help() **on** it
  - If we know **we'll be using** functions in math frequently we can **import it under a shorter alias** to save some typing (though in this case "math" is already pretty short).
+ - This tutorial will **guide you through some of the common uses** of formatters in Python, which **can help make** your code and program more readable and user friendly.
  - 
 
  
