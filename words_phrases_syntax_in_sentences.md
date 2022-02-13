@@ -41,6 +41,8 @@
  - This tutorial will **guide you through some of the common uses** of formatters in Python, which **can help make** your code and program more readable and user friendly.
  - You should **have Python 3 installed and a programming environment set up** on your computer or server.
  - Formatters work by **putting in** one or more replacement fields or placeholders — defined by a pair of curly braces {} — **into** a string and calling the str.format() method. 
- - 
+ - You’ll **pass into** the method the value you want to concatenate with the string. 
+ - This value will be **passed through in** the same place that your placeholder is positioned when you run the program.
+ - This **places** the value of 5 **into** the string where the curly braces were:
 
  
