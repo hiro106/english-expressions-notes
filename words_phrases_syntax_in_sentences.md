@@ -36,6 +36,7 @@
  - **Either way,** we'll **access** this code **with** imports.
  - We can access these variables **using** dot syntax. 
  - Some of them **refer to** simple values, like math.pi
+ - Of course, if we don't know **what** math.log **does**, we can **call** help() **on** it
  - 
 
  
