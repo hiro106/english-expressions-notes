@@ -31,5 +31,7 @@
  - In this tutorial, you will learn about imports in Python, **get some tips for working with** unfamiliar libraries (and the objects they return), and **dig into** operator overloading.
  - So far we've talked about types and functions which **are built-in to** the language.
  - But one of the best things about Python (especially if you're a data scientist) is **the vast number of** high-quality custom libraries that have **been written for it**.
+ - Some of these libraries are in the "standard library"**, meaning** you can find them **anywhere you run** Python. 
+ - Other libraries can be easily added, **even if** they **aren't always shipped with** Python.
 
  
