@@ -27,6 +27,6 @@
  - **Based only on this information**, if you receive a random letter, **the best guess is a 40% chance of it being** spam.
  - Based on this sample, if you know that a mail contains the word "offer", **there is a 75% chance of being** spam.
  - **Knowing this can help you make** a better decision **when filtering out** unwanted spam mail.
- - But **even the best programmers rely heavily on** "libraries" of code from other programmers.
+ - But **even the best programmers rely heavily on** "libraries" of **code** from other programmers.
 
  
