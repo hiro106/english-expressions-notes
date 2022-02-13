@@ -29,5 +29,6 @@
  - **Knowing this can help you make** a better decision **when filtering out** unwanted spam mail.
  - But **even the best programmers rely heavily on** "libraries" of **code** from other programmers.
  - In this tutorial, you will learn about imports in Python, **get some tips for working with** unfamiliar libraries (and the objects they return), and **dig into** operator overloading.
+ - So far we've talked about types and functions which **are built-in to** the language.
 
  
