@@ -44,5 +44,10 @@
  - You’ll **pass into** the method the value you want to concatenate with the string. 
  - This value will be **passed through in** the same place that your placeholder is positioned when you run the program.
  - This **places** the value of 5 **into** the string where the curly braces were:
+ - We can also **assign a variable to be** equal to the value of a string that has formatter placeholders:
+ - My boss **assigned me to give** a presentation seminar in New York. 
+ - Formatters in Python **allow you to use** curly braces as placeholders for values that you’ll **pass through with** the str.format() method.
+ - You can use multiple pairs of curly braces **when using** formatters.
+ - 
 
  
