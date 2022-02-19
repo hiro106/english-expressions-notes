@@ -55,7 +55,20 @@
  - Some of these libraries **are in** the "standard library", **meaning you can** find them **anywhere you run** Python. 
  - Other libraries can be easily added, **even if they aren't always shipped with** Python.
  - **Either way,** we'll access this code with imports.
+ - But **most of what we'll find** in the module are functions, like math.log:
+ - Of course, if we don't **know what math.log does**, we can call help() on it:
+ - This **will give us the combined documentation** for all the functions and values in the module (**as well as** a high-level description of the module). 
+ - If we know **we'll be using** functions in math **frequently** we can import it under a shorter alias to **save some typing** (though in this case "math" is already pretty short).
+ - You **may have seen** code that does this with certain popular libraries like Pandas, Numpy, Tensorflow, or Matplotlib. 
+ - For example, **it's a common convention to import** numpy as np and import pandas as pd.
+ - **Wouldn't it be** great if we could refer to all the variables in the math module by themselves?
+ - Bad news: some purists **might grumble at you for doing this**.
+ - Worse: they **kind of have a point**.
+ - **What has happened? It worked before**!
+ - **These kinds of "star imports"** **can occasionally lead to** weird, difficult-to-debug situations.
  - 
+
+
 
 
 
