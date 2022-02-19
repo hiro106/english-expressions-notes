@@ -79,6 +79,12 @@
  - **Whether or not you do so is up to you.**
  - This code **uncovers a fundamental principle**. 
  - However, how can you handle requirement changes that **would seem to involve** API changes?
+ - Once you **have** these three methods **in place**, you **create** a class attribute called .radius to store the property object. 
+ - **That way,** you know exactly which method **goes into** each argument.
+ - **To give** Circle **a try**, run the following code in your Python shell:
+ - **Besides** using regular named functions to provide getter methods in your properties, you can also use lambda functions.
+ - A decorator in Python is a function that takes another function as its argument, and returns **yet** another function.
+ - **The somewhat cryptic output** simply means that the first variable refers to the local first_child() function inside of parent(), while second points to second_child().
  - 
 
 
