@@ -50,6 +50,11 @@
  - You can use multiple pairs of curly braces **when using** formatters.
  - Then, we **passed** two strings **into** the str.format() method, **separating them by a comma**.
  - When we **leave** curly braces **empty** without any parameters, Python will **replace** the values passed through the str.format() method in order. 
+ - Imports, operator overloading, and survival tips for **venturing into** the world of external libraries
+ - But one of the best things about Python (especially if you're a data scientist) is **the vast number of** high-quality custom libraries **that have been written for** it.
+ - Some of these libraries **are in** the "standard library", **meaning you can** find them **anywhere you run** Python. 
+ - Other libraries can be easily added, **even if they aren't always shipped with** Python.
+ - **Either way,** we'll access this code with imports.
  - 
 
 
