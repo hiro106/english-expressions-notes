@@ -72,6 +72,13 @@
  - **In the cell above,** we saw that calling a numpy function gave us an "array". 
  - Or maybe I just want to turn the array into a list, **in which case** I can use "tolist"
  - Return a **contiguous** flattened array.
+ - What's the value of **the below expression**?
+ - Technically, **there’s nothing that stops you from using** getter and setter methods in Python. 
+ - However, **it’s bad practice to** violate this convention.
+ - **From this code, you can confirm that** Python doesn’t restrict access to non-public attributes.
+ - **Whether or not you do so is up to you.**
+ - This code **uncovers a fundamental principle**. 
+ - However, how can you handle requirement changes that **would seem to involve** API changes?
  - 
 
 
