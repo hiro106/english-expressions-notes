@@ -66,7 +66,15 @@
  - Worse: they **kind of have a point**.
  - **What has happened? It worked before**!
  - **These kinds of "star imports"** **can occasionally lead to** weird, difficult-to-debug situations.
+ - **Something to be aware of is that** they can also have variables referring to other modules.
+ - So if we import numpy **as above**, then **calling** a function in the random "submodule" **will require** two dots.
+ - For example, if you work with the graphing library matplotlib, you'll **be coming into contact with** objects it defines which represent Subplots, Figures, TickMarks, and Annotations. 
+ - **In the cell above,** we saw that calling a numpy function gave us an "array". 
+ - Or maybe I just want to turn the array into a list, **in which case** I can use "tolist"
+ - Return a **contiguous** flattened array.
  - 
+
+
 
 
 
