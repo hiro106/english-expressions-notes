@@ -90,6 +90,12 @@
  - **That way,** you got a reference to each function that you could call in the future. **Make sense?**
  - **Now that you’ve** seen that functions are just like any other object in Python, **you’re ready to move on** and see the magical beast **that is** the Python decorator. 
  - Let’s **start with** an example:
+ - **In effect**, the name say_whee now **points to** the wrapper() inner function. 
+ - **So as not to** disturb your neighbors, the following example will only run the decorated code during the day:
+ - The way you decorated say_whee() above is a little **clunky**. 
+ - **First of all**, you **end up typing** the name say_whee three times. 
+ - In addition, the decoration **gets a bit hidden away below** the definition of the function.
+ - The following example **does the exact same thing as** the first decorator example:
  - 
 
 
