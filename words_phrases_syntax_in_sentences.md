@@ -85,6 +85,11 @@
  - **Besides** using regular named functions to provide getter methods in your properties, you can also use lambda functions.
  - A decorator in Python is a function that takes another function as its argument, and returns **yet** another function.
  - **The somewhat cryptic output** simply means that the first variable refers to the local first_child() function inside of parent(), while second points to second_child().
+ - You **can now use** first and second as if they are regular functions, even though the **functions they point to** can’t beessed directly:
+ - However, in this last example, you did not add parentheses to the inner functions—first_child—**upon returning**. Now that you’ve seen that functions are just like any other object in Python, you’re ready to move on and see the magical beast that is the Python decorator. 
+ - **That way,** you got a reference to each function that you could call in the future. **Make sense?**
+ - **Now that you’ve** seen that functions are just like any other object in Python, **you’re ready to move on** and see the magical beast **that is** the Python decorator. 
+ - Let’s **start with** an example:
  - 
 
 
