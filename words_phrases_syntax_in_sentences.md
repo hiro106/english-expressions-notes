@@ -96,7 +96,18 @@
  - **First of all**, you **end up typing** the name say_whee three times. 
  - In addition, the decoration **gets a bit hidden away below** the definition of the function.
  - The following example **does the exact same thing as** the first decorator example:
+ 
+ - Generals warning of a military-industrial complex, product managers who **narc on mendacious management**, and tech leaders who violate **the Silicon Valley code of the white guy** — never criticize each other or your noble missions to save the world.
+ - Jack Dorsey **has drawn his sword** and **taken aim at** colleagues **attempting to** centralize control and **gain from the promise of** decentralization. **Specifically,** “web3.”
+ - What is web3? It’s a **hazy**/vague term **describing** a crypto-powered internet, and **a font of yogababble**.
+ - **Its promoters** would say **something akin to**:
+ - Unlike web2 (the current web), which is dominated by centralized platforms such as Google, Apple, and Facebook, web3 will use blockchain, crypto, and NFTs to **transfer power back to** the internet community. 
+ - **Sounds good**. Most of us **buy the down-with-Facebook-and-Google narrative**. 
+ - **Cut out** the middleman, and we all win — especially the little guys.
+ - **The dispersion of** theaters, doctors offices, and bank branches **to** our homes, smart speakers, and phones **offers enormous potential to** provide elemental services **with reduced friction**. 
  - 
+
+
 
 
 
