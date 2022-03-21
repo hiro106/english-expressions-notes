@@ -107,6 +107,8 @@
  - **The dispersion of** theaters, doctors offices, and bank branches **to** our homes, smart speakers, and phones **offers enormous potential to** provide elemental services **with reduced friction**. 
  - **At an extreme**, if a tree divides houses into only 2 or 4, each group still has a wide variety of houses. 
  - **Resulting predictions** may be **far off** for most houses, even in the training data (and it will be bad in validation too **for the same reason**).
+ - There are a few alternatives for controlling the tree depth, and many **allow for some routes** through the tree **to have** greater depth than other routes.
+ - But the max_leaf_nodes argument provides a very **sensible way to control** overfitting vs underfitting. 
  - 
 
 
