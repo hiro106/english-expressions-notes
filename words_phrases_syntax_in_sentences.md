@@ -105,6 +105,7 @@
  - **Sounds good**. Most of us **buy the down-with-Facebook-and-Google narrative**. 
  - **Cut out** the middleman, and we all win — especially the little guys.
  - **The dispersion of** theaters, doctors offices, and bank branches **to** our homes, smart speakers, and phones **offers enormous potential to** provide elemental services **with reduced friction**. 
+ - **At an extreme**, if a tree divides houses into only 2 or 4, each group still has a wide variety of houses. 
  - 
 
 
