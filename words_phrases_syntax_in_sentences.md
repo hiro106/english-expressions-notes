@@ -109,6 +109,7 @@
  - **Resulting predictions** may be **far off** for most houses, even in the training data (and it will be bad in validation too **for the same reason**).
  - There are a few alternatives for controlling the tree depth, and many **allow for some routes** through the tree **to have** greater depth than other routes.
  - But the max_leaf_nodes argument provides a very **sensible way to control** overfitting vs underfitting. 
+ - This hash function returns a unique output for a unique input value. Integers, floating point numbers, strings, tuples, and frozensets are hashable. While lists, dictionaries, and **sets other than frozensets** are not.
  - 
 
 
