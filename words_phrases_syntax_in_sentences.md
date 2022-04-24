@@ -131,6 +131,11 @@
  - **Lambda functions are a way of** creating small anonymous functions. 
  - These functions are **throw-away functions**, which **are only needed where they have been created**.
  - Lambda functions are mainly used **in combination with** the functions filter(), map() and reduce().
+ - How to create dictionaries **on the fly** using zip()
+ - You’ll **unpack this definition throughout the rest of the tutorial**. 
+ - Interlocking pairs of teeth on both sides of the zipper **are pulled together to close an opening**. 
+ - To see this in action, **take a look at** the following code block:
+ - 
  - 
 
 
