@@ -134,7 +134,7 @@
  - How to create dictionaries **on the fly** using zip()
  - You’ll **unpack this definition throughout the rest of the tutorial**. 
  - Interlocking pairs of teeth on both sides of the zipper **are pulled together to close an opening**. 
- - To see this in action, **take a look at** the following code block:
+ - **To see this in action**, **take a look at** the following code block:
  - 
  - 
 
