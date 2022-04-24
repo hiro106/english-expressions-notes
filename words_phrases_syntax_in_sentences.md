@@ -109,7 +109,11 @@
  - **Resulting predictions** may be **far off** for most houses, even in the training data (and it will be bad in validation too **for the same reason**).
  - There are a few alternatives for controlling the tree depth, and many **allow for some routes** through the tree **to have** greater depth than other routes.
  - But the max_leaf_nodes argument provides a very **sensible way to control** overfitting vs underfitting. 
- - This hash function returns a unique output for a unique input value. Integers, floating point numbers, strings, tuples, and frozensets are hashable. While lists, dictionaries, and **sets other than frozensets** are not.
+ - Integers, floating point numbers, strings, tuples, and frozensets are hashable. While lists, dictionaries, and **sets other than frozensets** are not.
+ - Hashing is **a somewhat complex topic** and this is **only the basic concept** behind hashing.
+ - Check out some more examples of a dictionary **to get a hang of** it:
+ - **Important to remember is that** a key has to be unique in a dictionary, **no duplicates are allowed**. 
+ - However, **in case of duplicate keys** rather than giving an error, Python will **take the last instance of the key to be valid** and simply ignore the first key-value pair.
  - 
 
 
