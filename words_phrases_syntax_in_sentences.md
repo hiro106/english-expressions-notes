@@ -114,6 +114,15 @@
  - Check out some more examples of a dictionary **to get a hang of** it:
  - **Important to remember is that** a key has to be unique in a dictionary, **no duplicates are allowed**. 
  - However, **in case of duplicate keys** rather than giving an error, Python will **take the last instance of the key to be valid** and simply ignore the first key-value pair.
+ - During this transformation, items within the original dictionary **can be conditionally included** in the new dictionary and each item **can be transformed as needed**.
+ - A good list comprehension can make your code **more expressive and thus, easier to read.**
+ - **The key with creating comprehensions** is to **not let them get so complex that your head spins when you try to decipher what they are actually doing**. 
+ - **Keeping the idea of "easy to read" alive**.
+ - **How can this be done?**
+ - **Python has you covered!**
+ - This can **serve as** the basic and the most simple template. 
+ - You can **call out** code or a command within a sentence **with single backticks**.
+ - Let's **start off** with a simple dictionary comprehension:
  - 
 
 
