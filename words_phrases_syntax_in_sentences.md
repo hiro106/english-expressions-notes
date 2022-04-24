@@ -123,6 +123,14 @@
  - This can **serve as** the basic and the most simple template. 
  - You can **call out** code or a command within a sentence **with single backticks**.
  - Let's **start off** with a simple dictionary comprehension:
+ - Dictionary comprehension is a powerful concept and **can be used to substitute** for loops and lambda functions. 
+ - However, **not all for loop can be** written as a dictionary comprehension but all dictionary comprehension can be written with a for loop.
+ - Consider the following problem, where you want to create a new dictionary where the key is **a number divisible by 2** in a range of 0-10 and it's value is** the square of the number**.
+ - For loops are used to repeat a certain operation or a block of instructions in a program **for a given number of times**. 
+ - However, nested for loops (for loop inside another for loop) can **get confusing and complex**. 
+ - **Lambda functions are a way of** creating small anonymous functions. 
+ - These functions are **throw-away functions**, which **are only needed where they have been created**.
+ - Lambda functions are mainly used **in combination with** the functions filter(), map() and reduce().
  - 
 
 
