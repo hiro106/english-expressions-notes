@@ -135,7 +135,10 @@
  - You’ll **unpack this definition throughout the rest of the tutorial**. 
  - Interlocking pairs of teeth on both sides of the zipper **are pulled together to close an opening**. 
  - **To see this in action**, **take a look at** the following code block:
- - 
+ - In this example, s1 and s2 are set objects, which don’t **keep their elements in any particular order**.
+ - This means that the tuples returned by zip() will have elements that **are paired up randomly**. 
+ - If you’re going to use the Python zip() function with unordered iterables like sets, **then this is something to keep in mind**.
+ - You can call zip() with no arguments **as well**.
  - 
 
 
