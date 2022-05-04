@@ -139,6 +139,8 @@
  - This means that the tuples returned by zip() will have elements that **are paired up randomly**. 
  - If you’re going to use the Python zip() function with unordered iterables like sets, **then this is something to keep in mind**.
  - You can call zip() with no arguments **as well**.
+ - Let’s **start with a quick example** to **get you acquainted** before you **dive into more detail on** how to use this method in Python to format strings. 
+ - **For review,** here’s the first example from the previous tutorial on the string modulo operator:
  - 
 
 
