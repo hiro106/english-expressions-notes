@@ -141,7 +141,14 @@
  - You can call zip() with no arguments **as well**.
  - Let’s **start with a quick example** to **get you acquainted** before you **dive into more detail on** how to use this method in Python to format strings. 
  - **For review,** here’s the first example from the previous tutorial on the string modulo operator:
+ - I have **grilled my Googler friends for information about** the way things really work inside of the company.
+ - How do they manage such a massive, monolithic code repository **without falling over**?
+ - As far as this outsider can tell, the systems and processes for writing code at Google must be among the best in the world, given both the scale of the company and how often people **sing their praises**.
  - 
+
+
+
+
 
 
 
