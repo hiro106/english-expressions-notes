@@ -148,6 +148,8 @@
  - Write a loop that **tries the following values for** max_leaf_nodes from a set of possible values.
  - Store the output **in some way that allows you to** select the value of max_leaf_nodes **that gives the most accurate model on your data**.
  - Decision trees **leave you with** a difficult decision. 
+ - Even today's most sophisticated modeling techniques **face this tension between** underfitting and overfitting. 
+ - If you keep modeling, you can learn more models with **even better performance**, but many of those are **sensitive to getting the right parameters**.
  - 
 
 
