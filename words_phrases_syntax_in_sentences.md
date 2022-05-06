@@ -147,6 +147,7 @@
  - **To my delight,** there are several chapters that go deep on various aspects of automated testing, **a topic that continues to meet with too much resistance** in our industry.
  - Write a loop that **tries the following values for** max_leaf_nodes from a set of possible values.
  - Store the output **in some way that allows you to** select the value of max_leaf_nodes **that gives the most accurate model on your data**.
+ - Decision trees **leave you with** a difficult decision. 
  - 
 
 
