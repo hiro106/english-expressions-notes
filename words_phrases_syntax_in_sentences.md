@@ -154,7 +154,9 @@
  - We build a random forest model **similarly to how we built** a decision tree in scikit-learn - **this time using** the RandomForestRegressor class instead of DecisionTreeRegressor.
  - **I’d be willing to bet that** most people have used a decision tree, **knowingly or not**, **at some point in their lives**.
  - Color **seems like a pretty obvious feature** to split by **as all but one of the 0s are blue**.
- - You can **think of** a node in a tree **as** the point where the path splits into two — observations **that meet the criteria** go down the Yes branch and ones that don’t go down the No branch.
+ - You can **think of** a node in a tree **as** the point **where the path splits into two** — observations **that meet the criteria** go down the Yes branch and **ones that don’t** go down the No branch.
+ - The No branch (the blues) is all 0s now **so we are done there**, but our Yes branch **can still be split further**.
+ - Now we can use the second feature and ask, “Is it underlined?” **to make a second split**.
  - 
 
 
