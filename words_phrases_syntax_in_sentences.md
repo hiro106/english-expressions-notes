@@ -152,6 +152,8 @@
  - If you keep modeling, you can learn more models with **even better performance**, but many of those are **sensitive to getting the right parameters**.
  - I'll always like you! **No matter what**!
  - We build a random forest model **similarly to how we built** a decision tree in scikit-learn - **this time using** the RandomForestRegressor class instead of DecisionTreeRegressor.
+ - **I’d be willing to bet that** most people have used a decision tree, **knowingly or not**, **at some point in their lives**.
+ - Color **seems like a pretty obvious feature** to split by **as all but one of the 0s are blue**.
  - 
 
 
