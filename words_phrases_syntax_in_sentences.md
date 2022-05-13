@@ -158,6 +158,12 @@
  - The No branch (the blues) is all 0s now **so we are done there**, but our Yes branch **can still be split further**.
  - Now we can use the second feature and ask, “Is it underlined?” **to make a second split**.
  - Data science provides **a plethora of** classification algorithms such as logistic regression, support vector machine, naive Bayes classifier, and decision trees.
+ - But **near the top of the classifier hierarchy is the random forest classifier** (there is also the random forest regressor but that is a topic for another day).
+ - Let’s quickly **go over** decision trees as they are the building blocks of the random forest model. 
+ - **I’d be willing to bet that** most people have used a decision tree, **knowingly or not, at some point in their lives**.
+ - Color seems like a pretty **obvious feature to split by** **as all but one of the 0s are blue**.
+ - So we can use the question, “Is it red?” **to split our first node**.
+ - You can think of a node in a tree **as the point where the path splits into two** — observations **that meet the criteria go down the Yes branch and ones that don’t go down the No branch**.
 
 
 
